@@ -1,0 +1,27 @@
+body{
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+p{
+    text-align: justify;
+    line-height: 1.5;
+}
+#logotipo{
+    width: 700px;
+    height: auto;
+     display: block;
+    margin: auto;
+}
+#dono{
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    display: block;
+}
+figure{
+    text-align: center;
+}
+#TextoDono{
+    margin-left: auto;
+    width: fit-content;
+}
